@@ -21,7 +21,7 @@ A sophisticated error detection and automation system for monitoring software ap
 - **Logging System**: Comprehensive logging for debugging and monitoring
 - **Error Pattern Management**: Customizable error pattern templates
 
-## 📋 Requirements
+##  Requirements
 
 ### System Requirements
 - Windows 10/11 (64-bit)
@@ -38,7 +38,7 @@ The application includes all necessary dependencies bundled within the executabl
 - **NumPy**: Numerical computing
 - **mss**: Fast screen capture
 
-## 🛠️ Installation
+##  Installation
 
 ### Option 1: Download Pre-built Executable
 1. Download the latest release from the [Releases](https://github.com/SpeedTestEnv/Error_Detector/releases) page
@@ -231,11 +231,6 @@ Error Detector v1.1
 - **Disk**: Screenshots and logs (configurable cleanup)
 - **Network**: No network usage
 
-### Development Setup
-1. Clone the repository
-2. Install development dependencies: `pip install -r requirements-dev.txt`
-3. Set up pre-commit hooks: `pre-commit install`
-4. Run tests: `python -m pytest`
 
 ### Code Style
 - Follow PEP 8 guidelines
@@ -247,7 +242,7 @@ Error Detector v1.1
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##  Acknowledgments
+##  Credits
 
 - **OpenCV**: Computer vision library
 - **Tesseract**: OCR engine
